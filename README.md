@@ -18,4 +18,3 @@ Financial management website (dashboard)
 > ![screenshot](https://github.com/mohajer2002/Dashboard-1/blob/main/Screenshots/12.png?raw=true)
 > ![screenshot](https://github.com/mohajer2002/Dashboard-1/blob/main/Screenshots/13.png?raw=true)
 
-> ## [Screenshots](https://drive.google.com/drive/folders/1rWPFIQqWeBA2rji_k-3CuQPRY86Y1pOf?usp=sharing)
